@@ -45,6 +45,10 @@ To use this script, follow the steps below:
 
 10. **Exit**: Follow the prompt to exit the script when you are done.
 
+## Notic
+
+You will required to download plugin during installation. with that software will not work.
+
 ## Additional Information
 
 - **Certificates**: Make sure you download and install the certificate as per the script's instructions.
