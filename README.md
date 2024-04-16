@@ -45,7 +45,7 @@ To use this script, follow the steps below:
 
 10. **Exit**: Follow the prompt to exit the script when you are done.
 
-## Notic
+## Notice
 
 You will required to download plugin during installation. with that software will not work.
 
