@@ -26,7 +26,7 @@ To use this script, follow the steps below:
 
 4. **Enter Software Key**: If it's the first time running the script, you will be prompted to enter your software key. Enter the key you received when you acquired the software.(Removed Software Key)
 
-5. **Follow Instructions**: The script will guide you through the proxy setup process and certificate installation.
+5. **Follow Instructions**: The script will guide you through the Custom setup process and certificate installation.
 
 6. **Certificate Installation**: Follow the script's instructions to download and install the required certificate. Download the certificate from [http://mitm.it/cert/p12](http://mitm.it/cert/p12) while the script is running.
 
@@ -50,7 +50,7 @@ You will required to download plugin during installation. with that software wil
 ## Additional Information
 
 - **Certificates**: Make sure you download and install the certificate as per the script's instructions.
-- **Subprocess Handling**: The script runs `apx.exe` as a subprocess for handling proxy tasks.
+- **Subprocess Handling**: The script runs `apx.exe` as a subprocess for handling Codetantra patch background tasks.
 
 ## Disclaimer
 
